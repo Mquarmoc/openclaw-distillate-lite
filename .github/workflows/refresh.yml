@@ -1,0 +1,25 @@
+name: Refresh Last Updated
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Every day at midnight
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update Date
+        run: |
+          sed -i "s/\*Last Updated: .*\*/\*Last Updated: $(date -u +'%Y-%m-%d %H:%M:%S') UTC\*/" README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Rook (Bot)"
+          git config --global user.email "rook-bot@clawd.local"
+          git add README.md
+          git commit -m "docs: refresh last updated date" || exit 0
+          git push
