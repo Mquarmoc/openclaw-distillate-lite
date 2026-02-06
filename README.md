@@ -26,7 +26,7 @@ For production-grade AI agents, every token counts. The full **A2A OpenClaw Dist
 - ✅ **Token-Optimized Tool References**
 - ✅ **Proven Inter-Agent Communication Patterns**
 
-### 👉 [Download Rook Core Control v1 on Gumroad](https://rookclaw8.gumroad.com/l/rook-core-control-v1)
+### 👉 [Download Rook Core Control v1 on Gumroad](https://rookclaw8.gumroad.com)
 
 ---
 
