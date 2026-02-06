@@ -10,9 +10,9 @@ OpenClaw is a powerful agentic AI framework designed for autonomous task executi
 
 ## 📂 Inside this Repository
 
-- [Architecture Overview](./architecture/overview.md)
-- [Agent Orchestration](./architecture/agent-orchestration.md)
-- [Memory Management](./architecture/memory-management.md)
+- [Architecture Overview](https://github.com/Mquarmoc/openclaw-distillate-lite/blob/main/architecture/overview.md)
+- [Agent Orchestration](https://github.com/Mquarmoc/openclaw-distillate-lite/blob/main/architecture/agent-orchestration.md)
+- [Memory Management](https://github.com/Mquarmoc/openclaw-distillate-lite/blob/main/architecture/memory-management.md)
 
 ---
 
