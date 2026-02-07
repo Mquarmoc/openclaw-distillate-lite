@@ -26,6 +26,9 @@ For production-grade AI agents, every token counts. The full **A2A OpenClaw Dist
 - ✅ **Token-Optimized Tool References**
 - ✅ **Proven Inter-Agent Communication Patterns**
 
+### 👉 [Get the A2A OpenClaw Distillate (€29) - Buy via Stripe](https://buy.stripe.com/test_6oU9AScjK9HbfLPezw8k80)
+*(Secure checkout powered by Stripe. Instant download.)*
+
 ---
 
 ## 🤖 Keep in Touch
