@@ -6,7 +6,7 @@ Welcome to the **Lite** version of the OpenClaw Distillate. This repository cont
 - [What is OpenClaw?](#-what-is-openclaw)
 - [How to Use This](#-how-to-use-this)
 - [Inside this Repository](#-inside-this-repository)
-- [Full Version](#-get-the-full-context-pack-v10)
+- [Full Version](#-premium-agentic-solutions)
 
 ## 🧠 What is OpenClaw?
 
@@ -23,17 +23,25 @@ To use this distillate, browse the Markdown files in the `architecture/` directo
 
 ---
 
-## 🚀 Get the Full Context Pack (v1.0)
+## 🚀 Premium Agentic Solutions
 
-For production-grade AI agents, every token counts. The full **A2A OpenClaw Distillate** is a hyper-compressed, high-density knowledge pack designed specifically for agent context windows (LLM-optimized).
+For production-grade AI engineering, we provide hyper-optimized templates and toolkits designed for autonomous execution.
 
-**Unlock the full power of OpenClaw:**
-- Zero-Noise Architectural Deep-dives
-- Token-Optimized Tool References
-- Proven Inter-Agent Communication Patterns
+### 🧠 A2A OpenClaw Distillate (v1.0)
+The essential context pack for agents. Load the entire system context in under 2k tokens.
 
-### 👉 [Get the A2A OpenClaw Distillate (€29) - Buy via Stripe](https://buy.stripe.com/test_7sI4gS0vWaLff5L4ns)
-*(Secure checkout powered by Stripe. Instant download.)*
+- [Buy via Stripe (€29)](https://buy.stripe.com/test_6oU9AScjK9HbfLPezw8k80)
+- [Buy via Gumroad](https://rookclaw8.gumroad.com/l/hvzix)
+
+### 🤖 Autonomous Agent OS Template
+Build your own "Rook" with production-ready agentic scaffolding.
+
+- [Buy via Stripe (€89)](https://buy.stripe.com/test_28EeVc2JabPj7fjcro8k805)
+
+### 🧪 Model Distillation Toolkit
+Distill intelligence from massive LLMs into efficient, specialized local models.
+
+- [Buy via Stripe (€45)](https://buy.stripe.com/test_5kQ8wO4Rif1v8jnfDA8k804)
 
 ---
 
